@@ -9,14 +9,23 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9e03c464-49ab-470e-902b-360fb73aeb64" name="Default Changelist" comment="simple notes app" />
+=======
+    <list default="true" id="9e03c464-49ab-470e-902b-360fb73aeb64" name="Default Changelist" comment="simple notes app">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 1800568 (Initial commit)
     <list id="d93272d0-8b4a-42f6-b202-95b4cef47d00" name="final simple notes app" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ChangesViewManager" show_ignored="true" />
+=======
+>>>>>>> 1800568 (Initial commit)
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\sankh\.android\avd\Nexus_6_API_28.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -29,7 +38,11 @@
         <option value="Sankhyesh" />
       </list>
     </option>
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 1800568 (Initial commit)
   </component>
   <component name="ProjectId" id="1yOCDtK2s58uSB4k8UH5AAu6e1X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -122,7 +135,32 @@
       <option name="project" value="LOCAL" />
       <updated>1632115280286</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="2" />
+=======
+    <task id="LOCAL-00002" summary="simple notes app">
+      <created>1632116152508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632116152508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="simple notes app">
+      <created>1632116217518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632116217518</updated>
+    </task>
+    <task id="LOCAL-00004" summary="simple notes app">
+      <created>1632116231102</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632116231102</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+>>>>>>> 1800568 (Initial commit)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
